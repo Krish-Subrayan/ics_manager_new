@@ -1,0 +1,12 @@
+/*additional styles*/
+body {
+   background: rgba(185,185, 185, 0.35);
+}
+.card-bg {
+    bachtkground: #F7F7F9;
+}
+.map {
+    width:100%;
+    height: 350px;
+}
+
